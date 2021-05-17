@@ -2,19 +2,14 @@
   "name": "proyectoclarityexpress",
   "version": "1.0.0",
   "description": "",
-  "main": "App.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "express": "^4.17.1",
-    "mongoose": "^5.12.9",
-    "nodemon": "^2.0.7"
-=======
-    "express": "^4.17.1"
->>>>>>> main
+    "mongoose": "^5.12.9"
   }
 }
